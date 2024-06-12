@@ -3,7 +3,7 @@
 ## Stengthen understanding of AWS ETL stack
 
 - Enhance ETL py files more in depth
-   - Video:
+   - Video: https://www.youtube.com/watch?v=8tr9kCJTBl4&t=186s
    - Article:
 - Understand Quicksight
    - Video:
