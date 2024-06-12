@@ -26,21 +26,8 @@ Real-time dashboards are created using AWS Quicksight for monitoring and managin
 
 
 ### Project Structure
-package-tracking-etl/
-├── data/
-│ ├── raw/
-│ └── processed/
-├── scripts/
-│ ├── extract_data.py
-│ ├── transform_data.py
-│ ├── load_data.py
-│ └── utils.py
-├── dashboards/
-│ └── package_tracking_dashboard.quicksight
-├── README.md
-├── requirements.txt
-└── config/
-└── config.yaml
+![image](https://github.com/EthanNorton/ETL-AWS/assets/86625413/286de568-5647-40e6-bb43-d61916bec0a6)
+
 
 ### Data Extraction
 
