@@ -4,6 +4,7 @@
 This project implements an ETL (Extract, Transform, Load) pipeline to track package status and handle delivery exceptions. 
 The pipeline extracts data from various sources, including package scanning systems and customer feedback, transforms the data to categorize exceptions, and loads it into a centralized Amazon Redshift database. 
 Real-time dashboards are created using AWS Quicksight for monitoring and managing exceptions.
+This is similar to other experiences I have, just learning new tools and names for Amazon Stack.
 
 ### Skills Utilized
 - **AWS Glue:** Used for data extraction, transformation, and loading.
