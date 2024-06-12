@@ -4,6 +4,7 @@
 
 - Enhance ETL py files more in depth
    - Video: https://www.youtube.com/watch?v=8tr9kCJTBl4&t=186s
+     - Crawler applications: 
    - Article:
 - Understand Quicksight
    - Video:
