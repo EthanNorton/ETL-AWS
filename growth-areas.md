@@ -14,4 +14,6 @@
  - Understand Branching:
    - Video:
    - Article:
-   
+ - Maintaining and designing standardized database/df:
+   - Video:
+   - Article:
