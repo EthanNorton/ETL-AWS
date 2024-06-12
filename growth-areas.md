@@ -8,3 +8,7 @@
 - Understand Quicksight
    - Video:
    - Article:
+ - Understand Branching:
+   - Video:
+   - Article:
+   
