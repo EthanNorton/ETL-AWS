@@ -4,4 +4,7 @@
 
 - Enhance ETL py files more in depth
    - Video:
-   - Article: 
+   - Article:
+- Understand Quicksight
+   - Video:
+   - Article:
