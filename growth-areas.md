@@ -14,9 +14,12 @@
 - Understand Quicksight
    - Video:
    - Article:
- - Understand Branching:
+ - Understand Branching
    - Video:
    - Article:
  - Maintaining and designing standardized database/df:
+   - Video:
+   - Article:
+- Understand Clusters
    - Video:
    - Article:
