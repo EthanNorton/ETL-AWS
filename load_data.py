@@ -20,5 +20,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-## From here, I have experience in utilizing visualization libraries, going deeper into analytics
+# From here, I have experience in utilizing visualization libraries, going deeper into analytics
 # or loading to databased to be monitored in various visualization apps 
+# can also perform scorecards, or build metric analysis would could be useful to a team
