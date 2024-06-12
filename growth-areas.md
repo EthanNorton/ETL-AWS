@@ -2,6 +2,6 @@
 
 ## Stengthen understanding of AWS ETL stack
 
-- 1. Enhance ETL py files more in depth
+- Enhance ETL py files more in depth
    - Video:
    - Article: 
