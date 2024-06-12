@@ -3,6 +3,7 @@ import json
 import os
 import spark 
 from pyspark.sql import SparkSession # learning about pyspark for efficient data loading
+# would be interested in finding out how to lower processing time in spark for quicker reports, for example 
 
 def transform_data():
     # Define S3 buckets and prefixes
