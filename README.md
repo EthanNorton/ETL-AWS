@@ -56,7 +56,7 @@ Script: load_data.py
 - Create real-time dashboards using AWS Quicksight.
 - Import the package_tracking_dashboard.quicksight file into AWS Quicksight.
 - Configure the dashboard to use the data from Redshift.
-**Monitoring and Exception Management**
+- **Monitoring and Exception Management**
 - Monitor the dashboards for real-time insights.
 - Use Quicksight alerts to manage and address delivery exceptions.
 
