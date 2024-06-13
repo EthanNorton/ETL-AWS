@@ -15,6 +15,7 @@
    - Video:
    - QuickSight: https://docs.aws.amazon.com/quicksight/latest/user/welcome.html, reading through documentation
    - Athena: https://docs.aws.amazon.com/pdfs/athena/latest/ug/athena-ug.pdf
+      - https://www.youtube.com/watch?v=V21xjnHMOyk
  - Understand Branching
    - Video:
    - Article:
