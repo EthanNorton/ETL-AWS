@@ -2,12 +2,15 @@
 
 import boto3
 import json
-import os
+import os 
 from datetime import datetime
+from dotenv import load_dotenv # if dotenv is in AWS stack, and there are API calls or sensitive info there 
+
+# Load variables from the .env file into environment variables
+load_dotenv()
 
 def extract_data():
-    # Define S3 bucket and prefix
-    # TODO: Research what S3 bucket is 
+    # Define S3 bucket and prefix 
     s3_bucket = 'your-s3-bucket'
     s3_prefix = 'raw/package_data/'
     

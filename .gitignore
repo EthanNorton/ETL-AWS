@@ -1,0 +1,7 @@
+# Ignore .env files
+.env
+
+# Ignore data files
+*.csv
+*.xlsx
+/data/
