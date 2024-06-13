@@ -9,7 +9,7 @@ from dotenv import load_dotenv # if dotenv is in AWS stack, and there are API ca
 # Load variables from the .env file into environment variables
 load_dotenv()
 
-def extract_data():
+def extract_data(): # a lot of this could be in .env file and could be done with the command above
     # Define S3 bucket and prefix 
     s3_bucket = 'your-s3-bucket'
     s3_prefix = 'raw/package_data/'

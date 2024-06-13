@@ -2,7 +2,7 @@ import psycopg2
 from sqlalchemy import create_engine
 
 # Function to load data into Amazon Redshift
-def load_data(dataframe):
+def load_data(dataframe): 
     # Example: Connect to Redshift
     engine = create_engine('postgresql://username:password@host:port/database')
     
