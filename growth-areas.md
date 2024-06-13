@@ -11,9 +11,9 @@
    - Video: https://www.youtube.com/watch?v=v9nk6mVxJDU&list=TLPQMTIwNjIwMjRhY3ZvLMfs3w&index=2
      - EMR
    - Article:
-- Understand Quicksight
+- Understand QuickSight
    - Video:
-   - Article:
+   - Article: https://docs.aws.amazon.com/quicksight/latest/user/welcome.html, reading through documentation
  - Understand Branching
    - Video:
    - Article:
