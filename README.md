@@ -27,7 +27,8 @@ This is similar to other experiences I have, just learning new tools and names f
 
 
 ### Project Structure
-![image](https://github.com/EthanNorton/ETL-AWS/assets/86625413/286de568-5647-40e6-bb43-d61916bec0a6)
+![image](https://github.com/EthanNorton/ETL-AWS/assets/86625413/64c0be55-9792-4cc4-898a-d92c377f6818)
+
 
 
 ### Data Extraction
