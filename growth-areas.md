@@ -11,9 +11,10 @@
    - Video: https://www.youtube.com/watch?v=v9nk6mVxJDU&list=TLPQMTIwNjIwMjRhY3ZvLMfs3w&index=2
      - EMR
    - Article:
-- Understand QuickSight
+- Understand QuickSight/Athena
    - Video:
-   - Article: https://docs.aws.amazon.com/quicksight/latest/user/welcome.html, reading through documentation
+   - QuickSight: https://docs.aws.amazon.com/quicksight/latest/user/welcome.html, reading through documentation
+   - Athena: https://docs.aws.amazon.com/pdfs/athena/latest/ug/athena-ug.pdf
  - Understand Branching
    - Video:
    - Article:
