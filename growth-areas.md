@@ -11,7 +11,8 @@
      - Pyspark, AWS Glue Ecosystem, Spark DF from a Dynamic DataFrame (usually I use Pandas).
    - Video: https://www.youtube.com/watch?v=v9nk6mVxJDU&list=TLPQMTIwNjIwMjRhY3ZvLMfs3w&index=2
      - EMR
-   - Article:
+   - Video: https://www.youtube.com/watch?v=ZSryMLGMLLw&list=PL5KTLzN85O4KdNBfGpD-QIabS3yvwI4qn
+     - IAM, more on AWS Ecosystem
 - Understand QuickSight/Athena
    - Video:
    - QuickSight: https://docs.aws.amazon.com/quicksight/latest/user/welcome.html, reading through documentation
