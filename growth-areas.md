@@ -30,7 +30,7 @@
    - Article:
 - Understand Redshift
    - Playlist: https://youtube.com/playlist?list=PLTgRMOcmRb3P7EOtFTATkiqMOGD2e307B
-- Understand IAM
+- Understand IAM and CloudWatch
   - Parquets: https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-format-parquet-home.html
  
 ## Additional Applications, Tasks, Responsibilities 
