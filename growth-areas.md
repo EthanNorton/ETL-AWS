@@ -32,3 +32,9 @@
    - Playlist: https://youtube.com/playlist?list=PLTgRMOcmRb3P7EOtFTATkiqMOGD2e307B
 - Understand IAM
   - Parquets: https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-format-parquet-home.html
+ 
+## Additional Applications, Tasks, Responsibilities 
+
+- Data Quality pipelines
+  - https://docs.aws.amazon.com/glue/latest/dg/glue-data-quality.html
+
