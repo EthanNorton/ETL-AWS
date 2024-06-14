@@ -28,4 +28,5 @@
    - Video:
    - Article:
 - Understand Redshift
+   - Playlist: https://youtube.com/playlist?list=PLTgRMOcmRb3P7EOtFTATkiqMOGD2e307B
 - Understand IAM
