@@ -27,3 +27,5 @@
 - Understand Clusters
    - Video:
    - Article:
+- Understand Redshift
+- Understand IAM
