@@ -1,4 +1,6 @@
 # Ths is GPT generated, still digesting the terms and integrations of this code
+# My understanding is that most of this will be configured within AWS Glue after ETL has been done, and Redshift is production ready 
+# This likely has hardest learning curve to set up and configure, but should be intuitive. 
 
 import boto3
 
