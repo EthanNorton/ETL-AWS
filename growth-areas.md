@@ -37,4 +37,5 @@
 
 - Data Quality pipelines
   - https://docs.aws.amazon.com/glue/latest/dg/glue-data-quality.html
+- Apache Griffin for data quality 
 
