@@ -19,9 +19,6 @@
    - Athena: https://docs.aws.amazon.com/pdfs/athena/latest/ug/athena-ug.pdf
       - https://www.youtube.com/watch?v=V21xjnHMOyk
       - https://www.youtube.com/watch?v=iGvj1gjbwl0 (Athena and Iceberg)
- - Understand Branching
-   - Video:
-   - Article:
  - Maintaining and designing standardized database/df:
    - Video:
    - Article:
@@ -37,6 +34,12 @@
 
 - Data Quality pipelines
   - https://docs.aws.amazon.com/glue/latest/dg/glue-data-quality.html
+  - Remove Duplicates 
 - Apache Griffin for data quality
   - https://www.youtube.com/watch?v=EQtaRqNUNd8
+- Add Data Lake.
+- Research Data Warehouse.
+- Integrate and Migrate Data from various sources.
+- Understanding, build, and articulate a data pipeline. 
+  
 
