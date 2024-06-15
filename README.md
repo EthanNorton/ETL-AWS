@@ -78,6 +78,7 @@ Script: performance_tuning.py
 - Optimize data extraction, transformation, and loading processes.
 - Implement best practices for performance improvements.
 - Save optimized configurations and results to data/optimized/.
+- Reduces computational burdens.
 
 ### Pattern Recognition
 
