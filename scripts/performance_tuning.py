@@ -1,3 +1,5 @@
+# the aws equivalent of CTE or various ways to make efficient queries to reduce computational loads 
+
 from awsglue.context import GlueContext
 from pyspark.sql import SparkSession
 
