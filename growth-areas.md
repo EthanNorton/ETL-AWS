@@ -40,6 +40,8 @@
 - Add Data Lake.
 - Research Data Warehouse.
 - Integrate and Migrate Data from various sources.
-- Understanding, build, and articulate a data pipeline. 
+- Understanding, build, and articulate a data pipeline.
+  - https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html, understanding s3 buckets,
+  - https://www.youtube.com/watch?v=VqjwWGAlRg0, understanding Glue flow to s3 and Redshift.
   
 
