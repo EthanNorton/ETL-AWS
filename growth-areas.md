@@ -40,7 +40,7 @@
 - Add Data Lake.
 - Research Data Warehouse.
   - https://aws.amazon.com/what-is/data-lake/?nc1=f_cc
-  - Understand various steps
+  - Understand various steps (https://www.youtube.com/watch?v=u0bTOXVSrQc&t=562s)
     - Familiar with Logical view through a SSIS type of mapping and key value pairs. 
 - Integrate and Migrate Data from various sources.
 - Understanding, build, and articulate a data pipeline.
