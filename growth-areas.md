@@ -39,6 +39,7 @@
   - https://www.youtube.com/watch?v=EQtaRqNUNd8
 - Add Data Lake.
 - Research Data Warehouse.
+  - https://aws.amazon.com/what-is/data-lake/?nc1=f_cc
 - Integrate and Migrate Data from various sources.
 - Understanding, build, and articulate a data pipeline.
   - https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html, understanding s3 buckets,
