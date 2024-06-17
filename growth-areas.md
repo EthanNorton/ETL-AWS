@@ -44,5 +44,5 @@
   - https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html, understanding s3 buckets,
   - https://www.youtube.com/watch?v=VqjwWGAlRg0, understanding Glue flow to s3 and Redshift.
 - MapReduce applications, way to evaluate.
-  
+  - https://docs.aws.amazon.com/emr/
 
