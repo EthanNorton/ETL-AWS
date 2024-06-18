@@ -52,5 +52,6 @@
  
   ## Future Projects
 
-  - Found this playlist and going through this for tool refinement listed above, as well as project ideas (https://www.youtube.com/playlist?list=PL_Ct8Cox2p8WjETeFftZePYTvuTRDx5h-). 
+  - Found this playlist and going through this for tool refinement listed above, as well as project ideas (https://www.youtube.com/playlist?list=PL_Ct8Cox2p8WjETeFftZePYTvuTRDx5h-).
+     - Learning about Docker More, connecting to Redshift, and integrations with AWS Glue. 
 
