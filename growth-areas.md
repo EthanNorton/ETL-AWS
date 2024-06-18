@@ -49,4 +49,8 @@
   - https://www.youtube.com/watch?v=VqjwWGAlRg0, understanding Glue flow to s3 and Redshift.
 - MapReduce applications, way to evaluate.
   - https://docs.aws.amazon.com/emr/
+ 
+  ## Future Projects
+
+  - Found this playlist and going through this for tool refinement listed above, as well as project ideas (https://www.youtube.com/playlist?list=PL_Ct8Cox2p8WjETeFftZePYTvuTRDx5h-). 
 
